@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="ช่องinwiptv", FWMOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg" group-title="ช่องinwiptv", FWSOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg" group-title="ช่องinwiptv", FWTOON
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="ช่องinwiptv", FWDOC
+https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213640FWsport.jpg" group-title="ช่องinwiptv", FWSPORT
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://dookeela.live/uploads/1705536821.png",สำรวจโลก
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/samrujlok/chunks.m3u8?nimblesessionid=11845446&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgNTozNDo1OSBBTSZoYXNoX3ZhbHVlPVVNSVBTNEtHRDZRcnlwMUpNM0pKNVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1 group-title="สารคดี" tvg-id="True_Series" tvg-logo="https://dookeela.live/uploads/1705536991.png",Mysci
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/mysci/chunks.m3u8?nimblesessionid=11853135&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgNjo1OToyMSBBTSZoYXNoX3ZhbHVlPTN3OUs3MnhPb1FDZ25vZ1FnYktmakE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1 group-title="สารคดี" tvg-id="True_Series" tvg-logo="https://dookeela.live/uploads/1705536991.png",Mysci
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgNjo1OToyMSBBTSZoYXNoX3ZhbHVlPTN3OUs3MnhPb1FDZ25vZ1FnYktmakE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1 group-title="สารคดี" tvg-id="True_Series" tvg-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7eKYIdRbvf6IyEZFT-MVPdq77DG1MtAnAUUVsnOGY-hu0Xx6YZ2_Juc&s",HBO
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/hbo/chunks.m3u8?nimblesessionid=11846733&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgNTo0ODo1MCBBTSZoYXNoX3ZhbHVlPXMwZE81QmRkcVZhVzYyd0Z3Umd1a1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
