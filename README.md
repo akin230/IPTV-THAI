@@ -1,35 +1,85 @@
-# IPTV-THAI
-![](https://img.shields.io/badge/Update-2025.02.21-brightgreen?style=for-the-badge)\
-เป็นแค่การรวบรวมทีวีออนไลน์ โดยมีจุดประสงค์เพื่อประชาสัมพันธ์และส่งเสริมช่องรายการทีวีต่างๆ บนอินเตอร์เน็ตสำหรับผู้ที่ไม่สะดวกในการรับชมผ่านเครื่องรับโทรทัศน์เท่านั้น 
-ไม่มีการทำซ้ำหรือเปลี่ยนแปลงใดๆที่ส่งผลกับช่องทีวีนั้นๆ การกระทำนี้มิได้มีวัตถุประสงค์เป็นการแสวงหาประโยชน์หรือสนับสนุนการกระทำผิดต่อกฎหมายใดทั้งสิ้น
+{
+  "name": "INWIPTV",
+  "author": "ต้นไงคับ",
+  "image": "https://pbs.twimg.com/media/FHG9SR_VgAIihQg.jpg",
+  "url": "",
+  "stations": [
+    {
+      "name": "FW Movie",
+      "image": "https://img5.pic.in.th/file/secure-sv1/MOV.png",
+      "imageScale": "fitStart",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=95262",
+      "referer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "FW Series",
+      "image": "https://img5.pic.in.th/file/secure-sv1/SIR.png",
+      "imageScale": "fitStart",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=94898",
+      "referer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "FW cartoon",
+      "image": "https://img2.pic.in.th/pic/CAR.png",
+      "imageScale": "fitStart",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=92941",
+      "referer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+name:"FW DOC",
+image:"https://www.fileinw.com/postor/20240617204638FWDoc.jpg",
+url:"http://freelive2.inwstream.com:1935/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=187274868&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDU6Mjk6MzkgUE0maGFzaF92YWx1ZT1MckdWWmlLclpnRDlLTGFONlJuNTFRPT0mdmFsaWRtaW51dGVzPTI=&demo",
+"referer": "",
+"playInNatPlayer": "true"
+},
+    {
+      "name": "FW Comedy",
+      "image": "https://img5.pic.in.th/file/secure-sv1/COM.png",
+      "imageScale": "fitStart",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=89781",
+      "referer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true"
+    },
 
-@2024
-
-## Playlist URL
-- https://akkradet.github.io/IPTV-THAI/FREETV.m3u
-
-## EPG
-
-- https://akkradet.github.io/IPTV-THAI/guide.xml
-- https://akkradet.github.io/IPTV-THAI/guide.xml.gz
-
-## Recommended Apps
-[Televizo - IPTV player](https://play.google.com/store/apps/details?id=com.ottplay.ottplay)
-
-## Discussion and Support 
-[![homepage][1]][2]
-
-[1]:  images/telegram.png
-[2]:  https://t.me/iptvth
-
-## For Educational Purposes Only
-
-## ***Disclaimer***
-
-Codes here are all found in github.
-
-***FREE TO USE, NOT FOR SALE***
-
-IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***!
-
-FORK ME!
+    {
+     "name": "FW DOC",
+     "image": "https://www.fileinw.com/postor/20240617204638FWDoc.jpg",
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/fwdoc_fw-iptv.stream/chunks.m3u8?nimblesessionid=187274023&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDQ6MzY6NDggUE0maGFzaF92YWx1ZT13RDlwS0Z0WW1RdDUvOU4xeFdvOEtnPT0mdmFsaWRtaW51dGVzPTI=&demo",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
+    },
+       {
+ "name": "FW DOC ld",
+"image": "https://www.fileinw.com/postor/20240617204638FWDoc.jpg",
+ "url": "https://www.inwiptv.com/player_demo.php?channel=91303",
+"referer": "https://www.inwiptv.com/",
+"userAgent": ""
+    },
+    {
+      "name": "FW Sports",
+      "image": "https://img5.pic.in.th/file/secure-sv1/SPb8cb76e015c2361b.png",
+      "imageScale": "fitStart",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=89782",
+      "referer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "FW doc",
+      "image": "https://img5.pic.in.th/file/secure-sv1/SPb8cb76e015c2361b.png",
+      "imageScale": "fitStart",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=91303",
+      "referer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true"
+    },
+    null
+  ]
+}
